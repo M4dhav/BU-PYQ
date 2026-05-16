@@ -24,6 +24,12 @@
                     "paper_id": "1-3.pdf",
                     "paper_num": 3,
                     "paper_suffix": "2025"
+                },
+                {
+                    "paper_name": "End Semester",
+                    "paper_id": "1-4.pdf",
+                    "paper_num": 4,
+                    "paper_suffix": "2023"
                 }
             ]
         },
@@ -81,6 +87,18 @@
                     "paper_id": "4-2.pdf",
                     "paper_num": 2,
                     "paper_suffix": "2024"
+                },
+                {
+                    "paper_name": "Makeup Examination",
+                    "paper_id": "4-3.pdf",
+                    "paper_num": 3,
+                    "paper_suffix": "2024"
+                },
+                {
+                    "paper_name": "End Semester",
+                    "paper_id": "4-4.pdf",
+                    "paper_num": 4,
+                    "paper_suffix": "2026"
                 }
             ]
         },
@@ -129,6 +147,24 @@
                     "paper_id": "6-2.pdf",
                     "paper_num": 2,
                     "paper_suffix": "2023"
+                },
+                {
+                    "paper_name": "Makeup Examination",
+                    "paper_id": "6-3.pdf",
+                    "paper_num": 3,
+                    "paper_suffix": "2023"
+                },
+                {
+                    "paper_name": "Makeup Examination",
+                    "paper_id": "6-4.pdf",
+                    "paper_num": 4,
+                    "paper_suffix": "2024"
+                },
+                {
+                    "paper_name": "End Semester",
+                    "paper_id": "6-5.pdf",
+                    "paper_num": 5,
+                    "paper_suffix": "2026"
                 }
             ]
         },
@@ -486,6 +522,24 @@
                     "paper_suffix": "Week 12",
                     "paper_id": "19-16.pdf",
                     "paper_num": 16
+                },
+                {
+                    "paper_name": "End Semester",
+                    "paper_id": "19-17.pdf",
+                    "paper_num": 17,
+                    "paper_suffix": "2022"
+                },
+                {
+                    "paper_name": "Makeup Examination",
+                    "paper_id": "19-18.pdf",
+                    "paper_num": 18,
+                    "paper_suffix": "2024"
+                },
+                {
+                    "paper_name": "End Semester",
+                    "paper_id": "19-19.pdf",
+                    "paper_num": 19,
+                    "paper_suffix": "2023"
                 }
             ]
         },
@@ -564,6 +618,24 @@
                     "paper_id": "23-2.pdf",
                     "paper_num": 2,
                     "paper_suffix": "2024"
+                },
+                {
+                    "paper_name": "Makeup Examination",
+                    "paper_id": "23-3.pdf",
+                    "paper_num": 3,
+                    "paper_suffix": "2023"
+                },
+                {
+                    "paper_name": "Supplementary Examination",
+                    "paper_id": "23-4.pdf",
+                    "paper_num": 4,
+                    "paper_suffix": "2024"
+                },
+                {
+                    "paper_name": "End Semester",
+                    "paper_id": "23-5.pdf",
+                    "paper_num": 5,
+                    "paper_suffix": "2026"
                 }
             ]
         },

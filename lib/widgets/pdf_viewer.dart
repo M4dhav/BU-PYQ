@@ -57,7 +57,12 @@ class PdfViewer extends StatelessWidget {
         ),
         body:
             url.isNotEmpty
-                ? SfPdfViewer.network(url)
+                ? SfPdfViewer.network(
+                  url,
+                  canShowTextSelectionMenu: false,
+                  canShowSignaturePadDialog: false,
+                  enableTextSelection: false,
+                )
                 : const Center(child: Text('No document URL provided')),
       ),
     );

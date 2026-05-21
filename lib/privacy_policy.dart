@@ -46,7 +46,7 @@ class PrivacyPolicyPage extends StatelessWidget {
             ),
             _buildSection(
               'Third-Party Services',
-              'Our application fetches content directly from a public GitHub repository (BU-Scholar) to deliver the question-paper index and PDF files. Important notes about this usage:\n\n'
+              'Our application fetches content directly from a public GitHub repository (BU-PYQ) to deliver the question-paper index and PDF files. Important notes about this usage:\n\n'
                   '• The app retrieves a single JSON manifest (pyq-data.json) and individual PDF files from raw.githubusercontent.com. These requests are unauthenticated and identical for every user.\n\n'
                   '• GitHub may log standard request metadata (such as IP address and user agent) as part of serving these public files, governed by GitHub\'s own privacy policy. We do not receive, access, or store any of this data.\n\n'
                   '• No user identification, accounts, or tracking are implemented in the app.\n\n'

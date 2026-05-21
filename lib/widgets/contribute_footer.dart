@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 const String contributionsUrl =
-    'https://github.com/M4dhav/BU-Scholar/blob/main/CONTRIBUTIONS.md';
+    'https://github.com/M4dhav/BU-PYQ/blob/main/CONTRIBUTIONS.md';
 
 class ContributeFooterCard extends StatelessWidget {
   const ContributeFooterCard({super.key});
@@ -34,10 +34,7 @@ class ContributeFooterCard extends StatelessWidget {
           padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
           child: Row(
             children: [
-              Icon(
-                Icons.handshake_outlined,
-                color: theme.colorScheme.primary,
-              ),
+              Icon(Icons.handshake_outlined, color: theme.colorScheme.primary),
               const SizedBox(width: 14),
               Expanded(
                 child: Column(

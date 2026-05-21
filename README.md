@@ -41,7 +41,7 @@ BU Scholar is a comprehensive mobile companion application designed specifically
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/M4dhav/BU-Scholar.git
+   git clone https://github.com/M4dhav/BU-PYQ.git
    cd BU-Scholar
    ```
 

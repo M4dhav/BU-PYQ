@@ -8,7 +8,7 @@ import '../models/pyq_data.dart';
 
 class PyqDataService {
   static const String _owner = 'M4dhav';
-  static const String _repo = 'BU-Scholar';
+  static const String _repo = 'BU-PYQ';
   static const String _branch = 'main';
   static const String _dataFile = 'pyq-data.json';
   static const String _pdfFolder = 'pyqs';
@@ -53,5 +53,6 @@ class PyqDataService {
     }
   }
 
-  static String paperUrl(Paper paper) => '$_rawBase/$_pdfFolder/${paper.paperId}';
+  static String paperUrl(Paper paper) =>
+      '$_rawBase/$_pdfFolder/${paper.paperId}';
 }
